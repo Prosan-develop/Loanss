@@ -1,0 +1,7 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងហាងកម្ចី និងបញ្ចាំ (Pawn & Loan Management)",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងប្រតិបត្តិការហាងកម្ចី កិច្ចសន្យាបញ្ចាំទ្រព្យ ការគណនាការប្រាក់ បង្កាន់ដៃទទួលប្រាក់ និងរបាយការណ៍ហិរញ្ញវត្ថុ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
